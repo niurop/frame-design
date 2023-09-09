@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1466b3d210723d",
+        "id": "5f3bddeb8e3e7ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "7798eb9c1ed5d20f",
+            "id": "191dbe622f247af7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Start here.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d16d958d1bc423be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ffca3a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0c3876369babfdfa",
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta.md",
+                "file": "Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta.md",
+                "file": "Start here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta.md"
+                "file": "Start here.md"
               }
             }
           }
@@ -156,15 +145,21 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "868fc0c1a3a103e5",
+  "active": "191dbe622f247af7",
   "lastOpenFiles": [
-    "Untitled",
-    "Start here.md",
     "Meta.md",
+    "FrameMethod/FrameMethod.md",
+    "Start here.md",
+    "FrameOS/FrameOS.md",
+    "FrameDB/FrameDB.md",
+    "FrameWiki/FrameWiki.md",
+    "FrameLang/FrameLang.md",
+    "FrameDebate/FrameDebate.md",
+    "FramePlatform/FramePlatform.md",
+    "FrameDB",
     "FrameMethod",
     "FramePlatform",
     "FrameWiki",

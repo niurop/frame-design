@@ -1,1 +1,8 @@
-{}
+{
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "spellcheck": false,
+  "showLineNumber": true,
+  "showFrontmatter": false
+}

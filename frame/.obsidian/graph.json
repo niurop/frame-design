@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:/FrameDB",
+      "color": {
+        "a": 1,
+        "rgb": 4351916
+      }
+    },
+    {
+      "query": "path:/FrameDebate",
+      "color": {
+        "a": 1,
+        "rgb": 16734558
+      }
+    },
+    {
+      "query": "path:/FrameLang",
+      "color": {
+        "a": 1,
+        "rgb": 6966419
+      }
+    },
+    {
+      "query": "path:/FrameMethod",
+      "color": {
+        "a": 1,
+        "rgb": 9095462
+      }
+    },
+    {
+      "query": "path:/FrameOS",
+      "color": {
+        "a": 1,
+        "rgb": 1671876
+      }
+    },
+    {
+      "query": "path:/FramePlatform",
+      "color": {
+        "a": 1,
+        "rgb": 16763450
+      }
+    },
+    {
+      "query": "path:/FrameWiki",
+      "color": {
+        "a": 1,
+        "rgb": 16749132
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 11904713
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.93877338877339,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6554983534946949,
+  "close": true
+}

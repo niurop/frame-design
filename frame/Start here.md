@@ -47,7 +47,7 @@ However, humanity cannot even agree what **Truth** is, let alone to find it. So 
 
 > I don't think being nice to each other is useful, just don't be unnecessarily rude.
 > Feelings are real, useful and Yours, but they are not an oracle.
-> Focus on the job and the facts.
+> Focus on the facts.
 > 
 > — *Marek (Niurop) Zielina*
 

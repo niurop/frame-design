@@ -17,7 +17,9 @@
 > - **[[FrameOS]]** is an operating system based on our principles
 >   (easy, practical, and free).
 >
-> Feel free to contribute.
+> Feel free to contribute:
+> - look at [[Problems]]
+> - contact Niurop
 
 >[!info]
 > For more technical information on this Obsidian Vault, refer to [[Meta]].
@@ -39,7 +41,7 @@ However, humanity cannot even agree what **Truth** is, let alone to find it. So 
 - create models and test them rigorously
 - try to prove and disprove everything 
 - simplify but do not oversimplify
-- focus on the specifics
+- be and focus on the specific
 - point out flaws
 - explain
 
@@ -67,8 +69,18 @@ The exact way of making decisions, what constitutes good enough foundation and d
 
 Even though this is a non-profit project, there will be a cost for running the websites, development, potential legal cases and advice, potentially rewording contributors, hiring full time contributors, and potential events such as conferences. We do not plan on paying for PR and Marketing if not strictly necessary.
 
-Everything in this project will be available free of charge, however there may be additional paid services, such as premium technical support for *FrameOS* or organization/hosting of public debates/tournaments.
+We hope that most of the content itself will be created and maintained by volunteers, like in the case of wikipedia.org.
 
-We hope to provide enough value to find individual, corporate and potentially even national sponsors. Being a sponsor warrants no right to impact the project other than support and showing as a supporter.
+In exchange, everything in this project will be available free of charge, however there may be additional paid services, such as premium technical support for *FrameOS* or organization/hosting of public debates/tournaments.
+
+We hope to provide enough value to find individual, corporate and potentially even national sponsors. Being a sponsor warrants no right to impact the project other than support and being listed as an official supporter.
 
 All financial reports will be publicly available (there are non yet).
+
+## How to participate:
+
+You can look at [[Problems]].
+
+Currently, we are just setting up. Most of the communication is currently done using private server on Discord before the platform will be created.
+
+If You want to help out, contact Niurop.

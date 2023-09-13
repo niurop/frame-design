@@ -4,5 +4,8 @@
   "attachmentFolderPath": "./",
   "spellcheck": false,
   "showLineNumber": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "spellcheckDictionary": [
+    "referenceable"
+  ]
 }

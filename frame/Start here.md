@@ -16,8 +16,10 @@
 > - **[[FrameDB]]** is an open database for collecting and organizing information.
 > - **[[FrameOS]]** is an operating system based on our principles
 >   (easy, practical, and free).
+> - **[[FrameUI]]** is a Widget based UI library in FrameLang used in FrameOS
 >
 > Feel free to contribute:
+> - read documentation
 > - look at [[Problems]]
 > - contact Niurop
 
@@ -44,6 +46,26 @@ However, humanity cannot even agree what **Truth** is, let alone to find it. So 
 - be and focus on the specific
 - point out flaws
 - explain
+
+## Project overview:
+
+This project aims at both finding what is **True** and giving everybody the current best aproximation of it.
+
+To achive this we first need to create a [[FrameMethod]] that will ensure that we move towards **Truth**. This method should be applicable to as many topics as possible, deal with different world views and biases, be resistent to manipulation and desinformation, and be easy enough to use.
+
+Such method in theory could be used by anyone, but as is the case with Scientific Method, most people don't use it since it requires too much work. Instead we propose that humanity to colectively use the [[FramePlatform]] as an open and semiautomated system that implements our method. Then whatever humanity deams as best aproximation of Truth could be used by anyone, on top of crossexaminig the progress and creating more inputs.
+
+For this people need to know how to argue their points of view, how to understand others arguments, and how to spot logical mistakes. To make it happen we also create [[FrameDebate]], as a platform for traning and debating. In the ideal case, debates would be recognized as an intelectual sport similar to chess, but more usefull for day to day life and more accesable, hence more popular.
+
+Further to make it easier to define relations and models and to automate parts of the method, we are creating [[FrameLang]]. It is a graph based language, allowing for specifing complex relations. Programming in it can be done by directly creating the graph, as well as by using custom syntax. This approuch will allow for any domain to use the most practical notations for their problems, and combine seamlessly with other parts.
+
+With all of this we have a huge library of facts, debates, and models. This creates a new problem, that people may understand only a shallow part of everything. A full explanation and derivation of every theorem is practically impossible on any of the mentioned platforms. For this we propose a [[FrameWiki]] as a platform similar to wikipedia in terms of opennes, but focused on creating understanding. The core idea is to include full derivations and reasons if possible, and decompose the topics into simple definitions, connections to other topics, full derivations, and history.
+
+To make a common place for documents, we propose [[FrameDB]]. Those documents can be anotated, scanned, and referenced in the whole Frame ecosystem.
+
+Finally to relief people from repetative, wierd, and unproductive stuff, so they can focuse on solving real problems we propose [[FrameOS]]. The core idea of this OS is to remove the deference between programs and libraries and make every program interactive purly by exposing its API. This API can then be used by any other program enabling full automation. This API should be understandable by [[FrameLang]], so that it is easy to model any wanted behaviour. For some programs this API will just be a wrapper, but for many it will be an integral part. Additionaly, since it will be based on FrameLang, it will be runable enywhere you can run FrameLang, as long as the hardware allows.
+
+One of the main applications of FrameOS that will work with those APIs will be [[FrameUI]]. It is a special program facilitating the GUI for the underling programs. It is widged and configuration based, so the user can create the most productive enviroment they need. This also means that applications don't need and probably shouldn't create their own UIs.
 
 ## Code of conduct:
 

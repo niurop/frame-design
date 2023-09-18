@@ -2,7 +2,7 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "spellcheck": false,
+  "spellcheck": true,
   "showLineNumber": true,
   "showFrontmatter": false,
   "spellcheckDictionary": [

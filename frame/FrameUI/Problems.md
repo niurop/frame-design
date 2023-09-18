@@ -1,4 +1,4 @@
-![[FrameMethod/Open problems]]
+![[Open problems]]
 
 ![[Potentially solved problems]]
 

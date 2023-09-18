@@ -1,0 +1,150 @@
+{
+  "nodePositions": [
+    {
+      "id": "Meta.md",
+      "x": -12.804115295410156,
+      "y": -1693.868896484375
+    },
+    {
+      "id": "Problems.md",
+      "x": 68.99215698242188,
+      "y": 115.58995819091797
+    },
+    {
+      "id": "Start here.md",
+      "x": -31.801633834838867,
+      "y": -1277.05078125
+    },
+    {
+      "id": "FrameDB/FrameDB.md",
+      "x": 308.1803283691406,
+      "y": -445.7878112792969
+    },
+    {
+      "id": "FrameDB/Open problems.md",
+      "x": 714.6112670898438,
+      "y": 613.456787109375
+    },
+    {
+      "id": "FrameDB/Problems.md",
+      "x": 775.4462280273438,
+      "y": 972.6421508789062
+    },
+    {
+      "id": "FrameDebate/FrameDebate.md",
+      "x": -127.75021362304688,
+      "y": -785.7589721679688
+    },
+    {
+      "id": "FrameDebate/Problems.md",
+      "x": 1074.510009765625,
+      "y": 703.85107421875
+    },
+    {
+      "id": "FrameOS/FrameOS.md",
+      "x": 88.02511596679688,
+      "y": -641.140380859375
+    },
+    {
+      "id": "FrameOS/Problems.md",
+      "x": 435.1773681640625,
+      "y": 1138.599609375
+    },
+    {
+      "id": "FramePlatform/FramePlatform.md",
+      "x": -388.63055419921875,
+      "y": -1068.1590576171875
+    },
+    {
+      "id": "FramePlatform/Problems.md",
+      "x": 15.907809257507324,
+      "y": 1008.4542236328125
+    },
+    {
+      "id": "FrameWiki/FrameWiki.md",
+      "x": 320.58087158203125,
+      "y": -817.4920654296875
+    },
+    {
+      "id": "FrameWiki/Problems.md",
+      "x": 284.7170104980469,
+      "y": 788.6431274414062
+    },
+    {
+      "id": "FrameMethod/Frame.md",
+      "x": -457.6934509277344,
+      "y": -328.2915344238281
+    },
+    {
+      "id": "FrameMethod/FrameMethod.md",
+      "x": -477.9545593261719,
+      "y": -627.01611328125
+    },
+    {
+      "id": "FrameMethod/Low impact problems.md",
+      "x": 1135.255615234375,
+      "y": 1186.24755859375
+    },
+    {
+      "id": "FrameMethod/Open problems.md",
+      "x": -548.0206298828125,
+      "y": 1567.418701171875
+    },
+    {
+      "id": "FrameMethod/Potentially solved problems.md",
+      "x": 592.7183837890625,
+      "y": 1614.3453369140625
+    },
+    {
+      "id": "FrameMethod/Problems.md",
+      "x": -164.23599243164062,
+      "y": 1403.6029052734375
+    },
+    {
+      "id": "FrameMethod/Process.md",
+      "x": -890.6127319335938,
+      "y": -610.7716064453125
+    },
+    {
+      "id": "FrameMethod/Solved problems.md",
+      "x": 246.91873168945312,
+      "y": 1573.408203125
+    },
+    {
+      "id": "FrameMethod/Versioning.md",
+      "x": -837.150146484375,
+      "y": -318.6434326171875
+    },
+    {
+      "id": "FrameLang/FrameLang.md",
+      "x": -680.5797729492188,
+      "y": -875.785400390625
+    },
+    {
+      "id": "FrameLang/Problems.md",
+      "x": 866.5595703125,
+      "y": 1366.8973388671875
+    },
+    {
+      "id": "FrameMethod/versions/v0.0.0a/frame_v0.0.0a.md",
+      "x": 695.345703125,
+      "y": -985.5986938476562
+    },
+    {
+      "id": "FrameMethod/versions/v0.0.0a/argument_rankings.svg",
+      "x": 1164.0838623046875,
+      "y": -1085.1446533203125
+    },
+    {
+      "id": "FrameMethod/versions/v0.0.0a/how_to_be_sure.xopp",
+      "x": -694.9895629882812,
+      "y": 2725.387451171875
+    },
+    {
+      "id": "FrameMethod/versions/v0.0.0a/original-graphics.svg",
+      "x": -2527.192138671875,
+      "y": 16.0571231842041
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

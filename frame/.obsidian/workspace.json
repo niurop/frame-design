@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d80c24fcaa8c8b90",
+        "id": "e9e5b8be066c48ea",
         "type": "tabs",
         "children": [
           {
-            "id": "f5af1d8e11fe398f",
+            "id": "1cec9104afb1865e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrameDB/Open problems.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b1de870f7ce745a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrameMethod/Open problems.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"FrameLang/Open problems\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrameDB/Open problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrameDB/Open problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FrameDB/Open problems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +131,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,36 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5af1d8e11fe398f",
+  "active": "1cec9104afb1865e",
   "lastOpenFiles": [
-    "Problems.md",
-    "FrameDB/Open problems.md",
     "Start here.md",
-    "Meta.md",
-    "FrameDB/Problems.md",
-    "FrameMethod/Open problems.md",
-    "FrameWiki/Problems.md",
-    "FramePlatform/Problems.md",
-    "FrameOS/Problems.md",
-    "FrameDebate/Problems.md",
-    "FrameLang/Problems.md",
-    "FrameMethod/Problems.md",
-    "FrameMethod/Solved problems.md",
-    "FrameMethod/Low impact problems.md",
     "FrameMethod/Potentially solved problems.md",
-    "FrameMethod/FrameMethod.md",
-    "FrameMethod/Frame.md",
-    "FrameMethod/Versioning.md",
-    "FrameMethod/Process.md",
-    "FramePlatform/FramePlatform.md",
-    "FrameLang/FrameLang.md",
-    "FrameDebate/FrameDebate.md",
+    "Problems.md",
+    "FrameLang/Problems.md",
+    "FrameLang/Open problems.md",
     "FrameDB/FrameDB.md",
     "FrameMethod/versions/v0.0.0a/frame_v0.0.0a.md",
+    "FrameMethod/FrameMethod.md",
+    "FrameLang/FrameLang.md",
+    "FramePlatform/Problems.md",
+    "FrameUI/Problems.md",
+    "FrameWiki/Problems.md",
+    "FrameOS/Problems.md",
+    "FrameDB/Problems.md",
+    "FrameDebate/Problems.md",
+    "FrameWiki/FrameWiki.md",
+    "FramePlatform/FramePlatform.md",
+    "FrameUI/FrameUI.md",
     "FrameOS/FrameOS.md",
+    "FrameDebate/FrameDebate.md",
+    "Meta.md",
+    "FrameMethod/Solved problems.md",
+    "FrameUI",
+    "FrameOS/Untitled.md",
+    "FrameMethod/Open problems.md",
+    "FrameMethod/Problems.md",
+    "FrameMethod/Low impact problems.md",
     "FrameMethod/versions/v0.0.0a/argument_rankings.svg",
     "FrameMethod/versions/v0.0.0a/original-graphics.svg",
-    "FrameMethod/The Process.md",
     "FrameMethod/versions/v0.0.0a/how_to_be_sure.xopp",
     "FrameMethod/versions/v0.0.0a",
     "FrameMethod/versions",
@@ -206,7 +186,6 @@
     "FramePlatform",
     "FrameWiki",
     "FrameDebate",
-    "FrameLang",
-    "FrameOS"
+    "FrameLang"
   ]
 }

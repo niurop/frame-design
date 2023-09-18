@@ -10,5 +10,7 @@
 ![[FrameOS/Problems]]
 # [[FramePlatform]]
 ![[FramePlatform/Problems|Problems]]
+# [[FrameUI]]
+![[FrameUI/Problems]]
 # [[FrameWiki]]
 ![[FrameWiki/Problems]]

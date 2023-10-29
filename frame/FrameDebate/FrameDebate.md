@@ -1,4 +1,4 @@
->[!tltr] Like lichess.org but for debate
+>[!tldr] Like lichess.org but for debate
 > - online service
 > - place for debating friends and random people on the internet
 > - multiple formats (1vs1, Oxford debate, Correspondence, ...)

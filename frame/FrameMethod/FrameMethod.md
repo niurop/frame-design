@@ -70,3 +70,5 @@ Each Frame will have a unique identifier similar to `Frame v11.15.23a`, where:
 The versions of Frames may change rapidly in the early stages, but should remain reasonable stable once at least one practical is found.
 
 Newst is [[frame_v0.0.0a]].
+
+### [[FrameMethod/Problems|Problems]]

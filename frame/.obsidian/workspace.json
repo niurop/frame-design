@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e9e5b8be066c48ea",
+        "id": "e24e0367be3133ac",
         "type": "tabs",
         "children": [
           {
-            "id": "1cec9104afb1865e",
+            "id": "cb3bae8fc3053442",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FrameWiki/Open problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10e0bb48301c37a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FrameLang/Open problems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FrameLang/Open problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FrameLang/Open problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FrameLang/Open problems.md"
+              }
             }
           },
           {
@@ -129,6 +150,22 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "19b4d5a2e0e6b1f7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "c93530da376f98f0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ]
@@ -144,38 +181,40 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "1cec9104afb1865e",
+  "active": "10e0bb48301c37a6",
   "lastOpenFiles": [
-    "Start here.md",
-    "FrameMethod/Potentially solved problems.md",
-    "Problems.md",
-    "FrameLang/Problems.md",
+    "FrameLang/Concepts/If condition.md",
     "FrameLang/Open problems.md",
-    "FrameDB/FrameDB.md",
-    "FrameMethod/versions/v0.0.0a/frame_v0.0.0a.md",
-    "FrameMethod/FrameMethod.md",
+    "FrameLang/Potentially solved problems.md",
     "FrameLang/FrameLang.md",
-    "FramePlatform/Problems.md",
-    "FrameUI/Problems.md",
+    "FrameLang/Low impact problems.md",
+    "FrameLang/Solved problems.md",
+    "FrameMethod/Potentially solved problems.md",
+    "FrameWiki/Potentially solved problems.md",
+    "FrameWiki/Open problems.md",
+    "Problems.md",
     "FrameWiki/Problems.md",
-    "FrameOS/Problems.md",
-    "FrameDB/Problems.md",
-    "FrameDebate/Problems.md",
     "FrameWiki/FrameWiki.md",
-    "FramePlatform/FramePlatform.md",
-    "FrameUI/FrameUI.md",
-    "FrameOS/FrameOS.md",
-    "FrameDebate/FrameDebate.md",
-    "Meta.md",
-    "FrameMethod/Solved problems.md",
+    "Start here.md",
+    "FrameMethod/FrameMethod.md",
+    "FrameDB/Open problems.md",
+    "FrameWiki/Solved problems.md",
+    "FrameWiki/Low impact problems.md",
+    "FrameUI/Solved problems.md",
+    "FrameUI/Potentially solved problems.md",
+    "FrameUI/Open problems.md",
+    "FrameUI/Low impact problems.md",
+    "FramePlatform/Solved problems.md",
+    "FramePlatform/Potentially solved problems.md",
+    "FramePlatform/Open problems.md",
+    "FramePlatform/Low impact problems.md",
+    "FrameOS/Solved problems.md",
+    "FrameLang/Concepts",
     "FrameUI",
-    "FrameOS/Untitled.md",
-    "FrameMethod/Open problems.md",
-    "FrameMethod/Problems.md",
-    "FrameMethod/Low impact problems.md",
     "FrameMethod/versions/v0.0.0a/argument_rankings.svg",
     "FrameMethod/versions/v0.0.0a/original-graphics.svg",
     "FrameMethod/versions/v0.0.0a/how_to_be_sure.xopp",
@@ -185,7 +224,6 @@
     "FrameMethod",
     "FramePlatform",
     "FrameWiki",
-    "FrameDebate",
-    "FrameLang"
+    "FrameDebate"
   ]
 }
